@@ -1,0 +1,67 @@
+div {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    margin-right: 30%;
+    margin-left: 30%;
+    vertical-align: middle;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    box-shadow: 0 10px 20px rgba(188, 184, 177, 0.19);
+    border-radius: 15px;
+    color: #6c584c;
+    border: 10px solid #8a817c;
+    border-radius: 15px;
+}
+body  {
+      background-color: #FFFFF0;
+      background-position: right top;
+      background-attachment: fixed;
+      background-size: cover;
+      font-family: sans-serif;
+}
+button, .button {
+    background-color: #583c2b;
+    border: 1px solid #a6a6a6;
+    box-shadow: 2px 2px #a6a6a6;
+    border-radius: 15px;
+}
+.input {
+    font-size: 22px;
+    text-align: center;
+    opacity: 0.5;
+}
+table {
+    width: 100%;
+}
+td {
+    text-align: center;
+   
+}
+button
+{
+    text-decoration: none;
+    color: white;
+    text-decoration: none;  
+    font-size: 25px;
+}
+button:hover
+{
+    background-color: rgb(9, 160, 235);
+    border: 1px solid #a6a6a6;
+    box-shadow: 2px 2px #a6a6a6;
+    color: #5555;
+    text-decoration: none;  
+    font-size: 25px;
+}
+.button:hover
+{
+    background-color: rgb(9, 160, 235);
+}
+input:hover, input:active 
+{
+    background-color: #8c8c8c;
+    box-shadow: 2px 2px #a6a6a6;
+}

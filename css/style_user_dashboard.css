@@ -1,0 +1,165 @@
+body {
+    margin: 0;
+    background: #f2f2f2;
+}
+
+/* .border {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+} */
+#td1 {
+    background-color: #6c757d;
+    color: white;
+    border: 10px;
+    margin: 10px;
+    padding: 50px;
+}
+
+td {
+    text-align: center;
+}
+
+
+
+h1 {
+    background-color: #31572c;
+    color: white;
+    border: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    padding: 15px;
+    font-size: 60px;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+h2 {
+    border: 10px;
+    padding: 5px;
+    font-size: 35px;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+    font-size: 24px;
+
+}
+
+#td1 {
+    background-color: #31572c;
+    color: white;
+    border: 10px;
+    margin-top: -10px;
+    padding: 10px;
+}
+
+.basic_box {
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    text-align: center;
+    margin: auto;
+    width: 1000px;
+    padding: 50px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19);
+}
+
+th {
+    font-weight: bold;
+    padding-left: 15px;
+    font-size: 28px;
+}
+
+/* ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 28%;
+	background-color: #343a40;
+	text-decoration: none;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+}
+
+ul .navbar{
+	font-size: 10px;
+} */
+/* 
+ul {
+      
+    list-style-type: none;
+    background-color: #343a40;
+    margin-bottom: 10px;
+    color: white;
+    margin-top: -38px;
+    padding: 0px;
+    overflow: hidden;
+    margin-left: -5px;
+    margin-right: -5px;
+    z-index: 1;
+    position: sticky;
+    top: 0px;
+} */
+
+/* li {
+    display: inline;
+    float: left;
+} */
+ul {
+    font-size: 20px;  
+    list-style-type: none;
+    background-color: #132a13;
+    margin-bottom: 10px;
+    color: white;
+    margin-top: -38px;
+    padding: 0px;
+    overflow: hidden;
+    margin-left: -5px;
+    margin-right: -5px;
+    z-index: 1;
+    position: sticky;
+    top: 0px;
+}
+
+li {
+    display: inline;
+    float: left;
+    color: white;
+}
+
+a:link,
+a:visited {
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+
+a:hover,
+a:active {
+    /* background-color: white; */
+    color: #094198;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #e6b800;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #e6b800;
+    color: white;
+    text-decoration: underline;
+}
